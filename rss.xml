@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+<channel>
+	<title>Arendt.io Blog</title>
+	<link>http://arendt.io</link>
+	<description>Almost a Blog</description>
+	<image>
+		<url>img/logo.svg</url>
+		<link>http://arendt.io</link>
+	</image>
+	<item>
+		<title>Using the Pareto Principle to Correct Estimates</title>
+		<link>http://arendt.io/#!posts/Pareto_for_Estimate_Correction</link>
+		<description>A few days ago, I saw someone wrote on the internet: ...</description>
+		<guid isPermaLink="false">f35f34e6-e2c3-4ab1-9991-3d22202517c8</guid>
+	</item>
+	<item>
+		<title>Warum nicht WhatsApp und Co</title>
+		<link>http://arendt.io/#!posts/XMPP</link>
+		<description>Heutzutage gibt es Instant Messager wie Sand am Meer: WhatsApp,...</description>
+		<guid isPermaLink="false">1121c34a-c8b1-4f29-aec8-9a1a6dc1721c</guid>
+	</item>
+	<item>
+		<title>Conversations Einstellungen optimieren</title>
+		<link>http://arendt.io/#!posts/Conversations-Options</link>
+		<description>In meinem letzten Post habe ich beschrieben, warum und wie man XMPP...</description>
+		<guid isPermaLink="false">e9c87cb5-8d44-4970-9c44-f5e32d3cd079</guid>
+	</item>
+	<item>
+		<title>First of a Kind</title>
+		<link>http://arendt.io/#!posts/First-of-a-Kind</link>
+		<description>A few days ago, I decided to write my own little blog software....</description>
+		<guid isPermaLink="false">aae77479-72fe-4ce6-bb5e-3a1f422ed23c</guid>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,24 @@
+{
+	"posts": [
+		{
+			"title":"Warum nicht WhatsApp und Co",
+			"link":"http://arendt.io/#!posts/XMPP",
+			"guid":"1121c34a-c8b1-4f29-aec8-9a1a6dc1721c",
+			"prettyId":"XMPP",
+			"file":"XMPP/xmpp.de.md",
+			"date":"2017-06-23T09:20:10Z",
+			"languages":["de" ],
+			"description":"Heutzutage gibt es Instant Messager wie Sand am Meer: WhatsApp,..."
+		},
+		{
+			"title":"Conversations Einstellungen optimieren",
+			"link":"http://arendt.io/#!posts/Conversations-Options",
+			"guid":"e9c87cb5-8d44-4970-9c44-f5e32d3cd079",
+			"prettyId":"Conversations-Options",
+			"file":"Conversations-Options/post.de.md",
+			"date":"2017-07-01T20:55:34Z",
+			"languages":["de" ],
+			"description":"In meinem letzten Post habe ich beschrieben, warum und wie man XMPP..."
+		}
+	]
+}

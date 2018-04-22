@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+	<meta name="author" content="Arendt.io">
+	<meta name="description" content="Almost a Blog">
+	<!--
+	Customize this policy to fit your own app's needs. For more guidance, see:
+		https://github.com/apache/cordova-plugin-whitelist/blob/master/README.md#content-security-policy
+	Some notes:
+		* gap: is required only on iOS (when using UIWebView) and is needed for JS->native communication
+		* https://ssl.gstatic.com is required only on Android and is needed for TalkBack to function properly
+		* Disables use of inline scripts in order to mitigate risk of XSS vulnerabilities. To change this:
+			* Enable inline JS: add 'unsafe-inline' to default-src
+	-->
+	<!--<meta http-equiv="Content-Security-Policy" content="default-src 'self' 'unsafe-inline' data: gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *; img-src 'self' data: content:; connect-src *;script-src 'self' 'unsafe-inline' 'unsafe-eval' https://cdn.polyfill.io/v2/polyfill.min.js;">-->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, minimal-ui">
+	<meta name="theme-color" content="#1284a1"><!-- Chrome, Firefox OS and Opera -->
+	<meta name="msapplication-navbutton-color" content="#1284a1"><!-- Windows Phone -->
+	<meta name="apple-mobile-web-app-status-bar-style" content="#1284a1"><!-- iOS Safari -->
+	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+	<link rel="alternate" type="application/rss+xml" href="rss.xml" title="Arendt.io Blog">
+    <title>Arendt.io Blog</title>
+
+	<link rel="stylesheet" href="css/highlightjs/default.css">
+	<script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=Intl.~locale.en,Intl.~locale.de"></script>
+  </head>
+  <body>
+	<link rel="stylesheet" href="css/app.css">
+	<!-- self closing <app/> not supported inside body -->
+	<app></app>
+
+	<script src="js/config.js"></script>
+	<script src="js/bundle.min.js"></script>
+  </body>
+</html>

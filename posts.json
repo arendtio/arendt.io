@@ -1,0 +1,42 @@
+{
+	"posts": [
+		{
+			"title":"Using the Pareto Principle to Correct Estimates",
+			"link":"http://arendt.io/#!posts/Pareto_for_Estimate_Correction",
+			"guid":"f35f34e6-e2c3-4ab1-9991-3d22202517c8",
+			"prettyId":"Pareto_for_Estimate_Correction",
+			"file":"Pareto_for_Estimate_Correction/Pareto_for_Estimate_Corretion.md",
+			"date":"2018-02-05T14:30:11Z",
+			"languages":["en"],
+			"description":"A few days ago, I saw someone wrote on the internet: ..."
+		},
+		{
+			"guid":"1121c34a-c8b1-4f29-aec8-9a1a6dc1721c",
+			"prettyId":"XMPP",
+			"date":"2017-06-23T09:20:10Z",
+			"firstTranslation":"de",
+			"languages":["de" ]
+		},
+		{
+			"guid":"e9c87cb5-8d44-4970-9c44-f5e32d3cd079",
+			"prettyId":"Conversations-Options",
+			"date":"2017-07-01T20:55:34Z",
+			"firstTranslation":"de",
+			"languages":["de" ]
+		},
+		{
+			"title":"First of a Kind",
+			"link":"http://arendt.io/#!posts/First-of-a-Kind",
+			"guid":"aae77479-72fe-4ce6-bb5e-3a1f422ed23c",
+			"prettyId":"First-of-a-Kind",
+			"file":"First of a Kind.md",
+			"date":"2017-06-18T10:10:42Z",
+			"languages":["en"],
+			"description":"A few days ago, I decided to write my own little blog software...."
+		}
+	],
+	"primaryLanguage": "en",
+	"secondaryIndices": [
+		"de" 
+	]
+}
